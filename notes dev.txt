@@ -1,0 +1,3 @@
+write a fifth page using bootstramp
+divs are used for headers and footers
+content card -- will use one depending on device width
