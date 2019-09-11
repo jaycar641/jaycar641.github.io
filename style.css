@@ -1,6 +1,6 @@
 body {
     
-    background-image:radial-gradient(purple, white);
+    background-image:radial-gradient(grey);
 }
 
 h1{
@@ -39,7 +39,7 @@ p{
 .imgBorder {
    
   background-color: #cccccc;
-  background-image: radial-gradient(white, purple);
+  background-image: radial-gradient(white, grey);
   border: 3px solid #C0C0C0; 
   border-radius: 4px;
   padding-right:5px;
@@ -58,5 +58,9 @@ p{
 .floatCenter {
     float:center;
     
+}
+
+h3 {
+  font-style: bold;
 }
 
